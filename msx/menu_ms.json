@@ -1,8 +1,8 @@
-{
+msx_json_content = {
     "title": "Florian IPTV - MSX Playlist",
     "entries": [
         {
-            "title": "IPTV Italia \u2013 GitHub",
+            "title": "IPTV Italia – GitHub",
             "playlist": "https://github.com/Tundrak/IPTV-Italia/releases/download/v03-2024/iptvitaplus.v03-2024.m3u"
         },
         {
@@ -30,7 +30,7 @@
             "playlist": "https://tivustream.website/urls/listm3u"
         },
         {
-            "title": "EFTI List \u2013 GitHub Gist",
+            "title": "EFTI List – GitHub Gist",
             "playlist": "https://gist.githubusercontent.com/aygitci/8c105c9ab143830571ff61cc3883098e/raw/3c2af9a9dc023d93ada77b45115bd46a6829d3f0/efti.m3u"
         },
         {
